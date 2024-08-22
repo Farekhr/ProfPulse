@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "John Doe",
+      "review": "Great professor, really knows how to explain complex concepts in a simple way.",
+      "subject": "Mathematics",
+      "stars": 5
+    },
+    {
+      "professor": "Jane Smith",
+      "review": "Engaging lectures and very approachable during office hours.",
+      "subject": "Electrical Engineering",
+      "stars": 4
+    },
+    {
+      "professor": "Michael Johnson",
+      "review": "Good professor but sometimes moves too quickly through the material.",
+      "subject": "Mathematics",
+      "stars": 4
+    },
+    {
+      "professor": "Susan Lee",
+      "review": "Excellent at making difficult physics topics understandable.",
+      "subject": "Physics",
+      "stars": 5
+    },
+    {
+      "professor": "David Brown",
+      "review": "Very knowledgeable but a bit strict with grading.",
+      "subject": "Computer Science",
+      "stars": 3
+    },
+    {
+      "professor": "Emily Davis",
+      "review": "Amazing professor! Makes lectures interesting and fun.",
+      "subject": "Chemistry",
+      "stars": 5
+    },
+    {
+      "professor": "William Clark",
+      "review": "Good lectures, but can be hard to get in touch with outside of class.",
+      "subject": "History",
+      "stars": 3
+    },
+    {
+      "professor": "Olivia Martinez",
+      "review": "Very patient and always willing to help students.",
+      "subject": "Biology",
+      "stars": 4
+    },
+    {
+      "professor": "James Taylor",
+      "review": "Challenging exams but fair grading. Overall a good professor.",
+      "subject": "Economics",
+      "stars": 4
+    },
+    {
+      "professor": "Patricia Anderson",
+      "review": "Clear explanations and well-organized lectures.",
+      "subject": "Sociology",
+      "stars": 5
+    },
+    {
+      "professor": "Thomas Lewis",
+      "review": "Very knowledgeable but not the most engaging lecturer.",
+      "subject": "Philosophy",
+      "stars": 3
+    },
+    {
+      "professor": "Sophia Walker",
+      "review": "Always makes time for students, both in and out of class.",
+      "subject": "Political Science",
+      "stars": 5
+    },
+    {
+      "professor": "Charles White",
+      "review": "Great professor, but assignments can be tough.",
+      "subject": "Computer Engineering",
+      "stars": 4
+    },
+    {
+      "professor": "Mia Harris",
+      "review": "Friendly and approachable, but sometimes unclear in explanations.",
+      "subject": "Psychology",
+      "stars": 3
+    },
+    {
+      "professor": "Alexander Thompson",
+      "review": "Lectures are very informative, but the material is dense.",
+      "subject": "Physics",
+      "stars": 4
+    },
+    {
+      "professor": "Emma Scott",
+      "review": "Excellent professor! Highly recommended for anyone taking her classes.",
+      "subject": "English Literature",
+      "stars": 5
+    },
+    {
+      "professor": "Daniel Martinez",
+      "review": "Good at answering questions, but lectures can be a bit dry.",
+      "subject": "Chemistry",
+      "stars": 3
+    },
+    {
+      "professor": "Elizabeth Clark",
+      "review": "Very supportive and encourages students to think critically.",
+      "subject": "History",
+      "stars": 4
+    },
+    {
+      "professor": "Matthew Rodriguez",
+      "review": "Great at explaining complex topics in an understandable way.",
+      "subject": "Computer Science",
+      "stars": 5
+    },
+    {
+      "professor": "Ava Lewis",
+      "review": "Very engaging and always willing to help. One of the best professors I've had.",
+      "subject": "Political Science",
+      "stars": 5
+    }
+  ]
+}
